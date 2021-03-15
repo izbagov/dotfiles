@@ -1,0 +1,49 @@
+{
+  "workbench.startupEditor": "newUntitledFile",
+  "window.zoomLevel": 1,
+  "workbench.colorTheme": "Dracula Soft",
+  "editor.formatOnPaste": false,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.snippetSuggestions": "top",
+  "editor.fontFamily": "Fira Code",
+  "editor.fontLigatures": true,
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.codeActionsOnSave": {
+    // For ESLint
+    "source.fixAll.eslint": false
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.fontSize": 17,
+  "python.showStartPage": false,
+  "prettier.printWidth": 100,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "all",
+
+  // настройки для ютуба
+  // "editor.minimap.enabled": false,
+  // "explorer.confirmDragAndDrop": false,
+  // "terminal.integrated.fontSize": 18,
+  // "workbench.activityBar.visible": false,
+  // "editor.quickSuggestions": false,
+  // "editor.suggestOnTriggerCharacters": false,
+  // "editor.wordBasedSuggestions": false,
+  // "editor.quickSuggestionsDelay": 1000000,
+  // "editor.parameterHints.enabled": false
+}
